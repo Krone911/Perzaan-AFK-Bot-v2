@@ -8,7 +8,7 @@
   "server": {
     "ip": "kpbmc404.aternos.me",
     "port": 44970,
-    "version": "26.2"
+    "version": "1.21.1"
   },
   "position": {
     "enabled": true,
